@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Myplokotam
-- 👀 I’m interested in Python, PowerShell
+- 👀 I’m interested in System Administration, DevOps, Python, PowerShell, Go
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... don't know yet.
 - 📫 How to reach me ... Via email
